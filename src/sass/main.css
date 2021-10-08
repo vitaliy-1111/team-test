@@ -34,7 +34,7 @@
 }
 
 .color-red {
-  color: red;
+  color: yellow;
 }
 
 .color-black {
@@ -43,5 +43,9 @@
 
 .color-blue {
   color: blue;
+}
+
+.text {
+  font-size: 30px;
 }
 /*# sourceMappingURL=main.css.map */
